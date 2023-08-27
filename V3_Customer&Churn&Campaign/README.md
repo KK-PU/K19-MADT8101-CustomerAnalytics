@@ -40,3 +40,28 @@ Group the data by "Target" and calculate the average of ServicesOpted and store 
     avg_services_by_target = df.groupby("Target")["ServicesOpted"].mean()
 
 ![Alt text](https://github.com/KK-PU/K19-MADT8101-CustomerAnalytics/blob/main/V3_Customer%26Churn%26Campaign/img/AverageServicesOpted%20byTarget.jpg)
+
+**Annual Income Class by Target**
+
+The annual income level of the target group
+
+![Alt text](https://github.com/KK-PU/K19-MADT8101-CustomerAnalytics/blob/main/V3_Customer%26Churn%26Campaign/img/AnnualIncomeClass.jpg)
+
+**Account Synced To SocialMedia**
+
+Social media synced accounts
+
+![Alt text](https://github.com/KK-PU/K19-MADT8101-CustomerAnalytics/blob/main/V3_Customer%26Churn%26Campaign/img/AccountSyncedToSocialMedia.jpg)
+
+**Booked Hotel Or Not**
+
+![Alt text](https://github.com/KK-PU/K19-MADT8101-CustomerAnalytics/blob/main/V3_Customer%26Churn%26Campaign/img/BookedHotelOrNot.jpg)
+
+
+## Data Processing
+**XGBoost**
+
+
+
+
+
