@@ -27,3 +27,5 @@ This dataset is for Customertravel.csv with following columns:
     sns.set()
 
 **Explore Services Opted by Target**
+
+![Alt text](https://github.com/KK-PU/K19-MADT8101-CustomerAnalytics/blob/main/V3_Customer%26Churn%26Campaign/img/Distributionof%20ServicesOptedbyTarget.jpg)
