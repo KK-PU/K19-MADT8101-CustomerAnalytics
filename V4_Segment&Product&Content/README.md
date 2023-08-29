@@ -50,6 +50,16 @@ The features of each clusters are `4 clusters` :
 
 The graph on the left displays the top 10 best-selling products within the `Starter Group`. On the right-hand side, the graph illustrates the relationship between products when customers choose to purchase. Specifically, when customers select the product `"5C4CCE"` there is approximately a ` 2.5% ` chance that they will also purchase `"6CQC41"` together.
 
+  - `cluster 1` : High Performers
+
+    ![Alt text](https://github.com/KK-PU/K19-MADT8101-CustomerAnalytics/blob/main/V4_Segment%26Product%26Content/img/HighPerformers-1.jpg)
+
+The graph on the left illustrates the top 10 best-selling products within the `"High Performers"` group. On the right-hand side, the graph depicts the relationship between products when customers make purchase decisions. Specifically, when customers opt to buy the product `"5C4CCE"` there is an approximate `4%` likelihood that they will also purchase `"6CQC41"` together.
+
+  - `cluster 2` : Growing cluster
+
+    ![Alt text](https://github.com/KK-PU/K19-MADT8101-CustomerAnalytics/blob/main/V4_Segment%26Product%26Content/img/GrowingCluster-1.jpg)
+
 
 
 
