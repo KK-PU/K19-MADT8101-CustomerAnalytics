@@ -105,7 +105,7 @@ from sklearn.feature_selection import SelectKBest, f_classif
 	print("Best F1 Score:", best_score)
 
 
- Use the F1 Score to measure the performance of all models.
+ Use the `F1 Score` to measure the performance of all models.
 
 **Best Parameters:**
 
@@ -119,7 +119,7 @@ from sklearn.feature_selection import SelectKBest, f_classif
 
 **Best F1 Score:**
 
--   The best F1-Score value obtained from the test is 0.7884057971014492 (Efficiency value ranges between 0-1)
+-   The best `F1-Score` value obtained from the test is ` 0.7884057971014492 ` (Efficiency value ranges between 0-1)
 -   Total number of trials totaling 1080 fits
 
 
