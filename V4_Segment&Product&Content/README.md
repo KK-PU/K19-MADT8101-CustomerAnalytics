@@ -29,9 +29,9 @@ Segment customers by clustering, dividing the data points into subgroups. Then g
 
 The features of each clusters are `4 clusters` :
 
- - cluster 0 : Starter Group individuals who are in the early stages of their MLM journey.
- - cluster 1 : High Performers the top-performing individuals in the MLM program.
- - cluster 2 : Growing Cluster individuals who fall between the Starter Group and the High Performers.
- - cluster 3 : Potential Growth highest number of downline members compared to other clusters.
+ - cluster 0 : Starter Group individuals who are in the early stages of their MLM journey. sporadically seek out online shopping opportunities but don't make purchases frequently.
+ - cluster 1 : High Performers The top performers in MLM programs are very responsive to discounts and promotional offers. resulting in more frequent purchases and higher average spending.
+ - cluster 2 : Growing cluster Individuals who fall between the beginner and the high-performing groups. Be price sensitive and only buy when they see a good deal. They are not persuaded by simple marketing or advertising. and tend to have low average spending.
+ - cluster 3 : Potential Growth Maximum number of downline members compared to other clusters Be selective about their buying behavior and have significant spending tendencies when they make purchases. They have a relatively fast return pattern and enjoy the shopping experience at offline stores.
 
 
