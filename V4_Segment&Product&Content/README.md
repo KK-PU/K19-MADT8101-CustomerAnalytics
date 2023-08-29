@@ -75,7 +75,12 @@ The graph on the left showcases the top 10 best-selling products within the `Pot
     print(simple_rules.shape)
     simple_rules.sort_values('lift', ascending=False).head(20)
 
+
 Analyze data from rules (rules) obtained from basket analysis by specifying conditions. Store it in the simple_rules variable and display a table showing only the 20 rules with the highest Lift values (ordered by Lift values from highest to lowest).
 
 
-    ![Alt text](https://github.com/KK-PU/K19-MADT8101-CustomerAnalytics/blob/main/V4_Segment%26Product%26Content/img/HighPerformers-1.jpg)
+ - rules and metrices
+
+    ![Alt text](https://github.com/KK-PU/K19-MADT8101-CustomerAnalytics/blob/main/V4_Segment%26Product%26Content/img/rules%20-1.jpg)
+
+
