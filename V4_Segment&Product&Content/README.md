@@ -79,7 +79,7 @@ The graph on the left showcases the top 10 best-selling products within the `Pot
 Analyze data from rules (rules) obtained from basket analysis by specifying conditions. Store it in the simple_rules variable and display a table showing only the 20 rules with the highest Lift values (ordered by Lift values from highest to lowest).
 
 
- - rules and metrices
+ - rules table
 
     ![Alt text](https://github.com/KK-PU/K19-MADT8101-CustomerAnalytics/blob/main/V4_Segment%26Product%26Content/img/rules%20-1.jpg)
 
@@ -88,6 +88,38 @@ Analyze data from rules (rules) obtained from basket analysis by specifying cond
     ![Alt text](https://github.com/KK-PU/K19-MADT8101-CustomerAnalytics/blob/main/V4_Segment%26Product%26Content/img/association-rules-2.jpg)
 
 In the context of Association Rule Mining (or Basket Analysis), nodes represent items, and edges represent rules (what comes before ➞ what comes after). The edges' labels provide information about the lift. It's important to note that for a 1-to-1 item set, both directions of the rule (A➞B, B➞A) have the same lift value. Therefore, in this case, we'll always have bidirectional edges (A⬌B).
+
+**3) Item-item collaborative filtering**
+
+    import networkx as nx
+    import matplotlib.pyplot as plt
+    
+    G = nx.Graph()
+    G.add_weighted_edges_from([(x['item1'], x['item2'], round(x['sim'], 2)) for i, x in sim_df.iterrows()])
+
+    labels_params = {'font_family': 'K2D', 'alpha': 0.8, 'font_size': 12}
+
+    edgelist, weights = zip(*[((u, v), d['weight']) for u, v, d in G.edges(data=True)])
+    width = 1 + ((np.array(weights) - min(weights)) / (max(weights) - min(weights))) * 3
+
+    plt.figure(figsize=(12, 12))
+    pos = nx.circular_layout(G, scale=5)
+    nx.draw(G, pos, with_labels=True, node_color='darkturquoise',edgelist=edgelist, 
+            width=width,edge_color=weights, edge_cmap=plt.cm.autumn_r,**labels_params)
+
+    num_nodes = G.number_of_nodes()
+    num_edges = G.number_of_edges()
+    print(f"Number of nodes: {num_nodes}")
+    print(f"Number of edges: {num_edges}")
+
+    plt.title('Collaborative Filtering - Item Similarity')
+    plt.show()
+       
+
+
+The graph shows the similarity between items by analyzing similarity data between items by circular layout method and using weights on the connecting lines between items to show the similarity between items.
+
+A circular arc representing each item. and use lines between items to show similarities between these items. The weights on the edge show the similarity between the items. The line width can be changed according to the similarity value.
 
 
 
