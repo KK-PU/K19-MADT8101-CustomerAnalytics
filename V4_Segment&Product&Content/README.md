@@ -29,11 +29,8 @@ Data is compiled in csv file format.
 
 **K-Means Clustering**
 
-Segment customers by clustering, dividing the data points into subgroups. Then group the same data points into the same group. A popular technique is K-Means Clustering.
+Segment customers by clustering, dividing the data points into subgroups. Then group the same data points into the same group. A popular technique is `K-Means` Clustering.
 
-
--Insight-
-
-I found 5 clusters.
+The features of each clusters are `4 clusters` :
 
 
