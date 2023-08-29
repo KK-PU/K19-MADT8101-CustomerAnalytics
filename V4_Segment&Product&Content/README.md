@@ -70,9 +70,12 @@ The graph on the left showcases the top 10 best-selling products within the `Pot
 
 **2) Rules and Metrics**
 
+    import pandas as pd
+    simple_rules = rules[(rules['antecedents'].apply(len) == 1) & (rules['consequents'].apply(len) == 1) & (rules['lift'] > 1.05) & (rules['confidence'] > 0.5)]
+    print(simple_rules.shape)
+    simple_rules.sort_values('lift', ascending=False).head(20)
+
+Analyze data from rules (rules) obtained from basket analysis by specifying conditions. Store it in the simple_rules variable and display a table showing only the 20 rules with the highest Lift values (ordered by Lift values from highest to lowest).
 
 
-
-
-
-
+    ![Alt text](https://github.com/KK-PU/K19-MADT8101-CustomerAnalytics/blob/main/V4_Segment%26Product%26Content/img/HighPerformers-1.jpg)
