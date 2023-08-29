@@ -40,6 +40,13 @@ The features of each clusters are `4 clusters` :
 
 ## Product Recommendation - Market Basket Recommendation
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BpDBPxs2togvmgEqFrBTVnskpu77FgfS)
+**Google Colab:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BpDBPxs2togvmgEqFrBTVnskpu77FgfS)
+
+**1) Top Most/Least common items**
+
+
+
+
+
 
 
