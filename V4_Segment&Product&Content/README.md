@@ -4,7 +4,6 @@
  - Product Recommendation
  - Content Recommendation
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BpDBPxs2togvmgEqFrBTVnskpu77FgfS)
 
 ## Customer Segmentation
 
@@ -36,5 +35,9 @@ The features of each clusters are `4 clusters` :
 
 
 ![Alt text](https://github.com/KK-PU/K19-MADT8101-CustomerAnalytics/blob/main/V4_Segment%26Product%26Content/img/cluster.jpg)
+
+## Segment Movement Analysis
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BpDBPxs2togvmgEqFrBTVnskpu77FgfS)
 
 
