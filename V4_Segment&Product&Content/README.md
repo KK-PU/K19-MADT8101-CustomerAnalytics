@@ -60,6 +60,14 @@ The graph on the left illustrates the top 10 best-selling products within the `"
 
     ![Alt text](https://github.com/KK-PU/K19-MADT8101-CustomerAnalytics/blob/main/V4_Segment%26Product%26Content/img/GrowingCluster-1.jpg)
 
+The graph on the left displays the top 10 best-selling products within the `Intermediate group`. On the right-hand side, the graph illustrates the relationship between products when customers choose to make a purchase. Specifically, when customers decide to buy the product `"5C4CCE"` there is an approximate `4.2%` chance that they will also purchase `"6CQC41"` together.
+
+ - `cluster 3` : Potential Growth
+
+    ![Alt text](https://github.com/KK-PU/K19-MADT8101-CustomerAnalytics/blob/main/V4_Segment%26Product%26Content/img/PotentialGrowth-1.jpg)
+
+The graph on the left showcases the top 10 best-selling products within the `Potential Growth` group. On the right-hand side, the graph illustrates the relationship between products when customers opt to make a purchase. Specifically, when customers choose to buy the product `"KCQCEJ"` there is an approximate `5%` chance that they will also purchase `"KCQCER"` together.
+
 
 
 
