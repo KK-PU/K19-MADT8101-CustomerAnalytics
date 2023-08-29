@@ -112,12 +112,16 @@ In the context of Association Rule Mining (or Basket Analysis), nodes represent 
     print(f"Number of nodes: {num_nodes}")
     print(f"Number of edges: {num_edges}")
 
-    plt.title('Collaborative Filtering - Item Similarity')
+    plt.title('Item-item collaborative Filtering - Item Similarity')
     plt.show()
        
 
 
 The graph shows the similarity between items by analyzing similarity data between items by circular layout method and using weights on the connecting lines between items to show the similarity between items.
+- Item-item rule 
+
+    ![Alt text](https://github.com/KK-PU/K19-MADT8101-CustomerAnalytics/blob/main/V4_Segment%26Product%26Content/img/Collaborative-1.jpg)
+
 
 A circular arc representing each item. and use lines between items to show similarities between these items. The weights on the edge show the similarity between the items. The line width can be changed according to the similarity value.
 
