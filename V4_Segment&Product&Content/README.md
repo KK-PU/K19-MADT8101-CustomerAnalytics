@@ -83,4 +83,12 @@ Analyze data from rules (rules) obtained from basket analysis by specifying cond
 
     ![Alt text](https://github.com/KK-PU/K19-MADT8101-CustomerAnalytics/blob/main/V4_Segment%26Product%26Content/img/rules%20-1.jpg)
 
+- association rule 
+
+    ![Alt text](https://github.com/KK-PU/K19-MADT8101-CustomerAnalytics/blob/main/V4_Segment%26Product%26Content/img/association-rules-2.jpg)
+
+In the context of Association Rule Mining (or Basket Analysis), nodes represent items, and edges represent rules (what comes before ➞ what comes after). The edges' labels provide information about the lift. It's important to note that for a 1-to-1 item set, both directions of the rule (A➞B, B➞A) have the same lift value. Therefore, in this case, we'll always have bidirectional edges (A⬌B).
+
+
+
 
