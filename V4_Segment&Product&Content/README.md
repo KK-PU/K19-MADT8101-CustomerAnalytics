@@ -68,6 +68,9 @@ The graph on the left displays the top 10 best-selling products within the `Inte
 
 The graph on the left showcases the top 10 best-selling products within the `Potential Growth` group. On the right-hand side, the graph illustrates the relationship between products when customers opt to make a purchase. Specifically, when customers choose to buy the product `"KCQCEJ"` there is an approximate `5%` chance that they will also purchase `"KCQCER"` together.
 
+**2) Rules and Metrics**
+
+
 
 
 
