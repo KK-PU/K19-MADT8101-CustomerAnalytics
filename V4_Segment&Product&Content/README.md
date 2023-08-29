@@ -33,8 +33,10 @@ The features of each clusters are `4 clusters` :
  - `cluster 2` : Growing cluster Individuals who fall between the beginner and the high-performing groups. Be price sensitive and only buy when they see a good deal. They are not persuaded by simple marketing or advertising. and tend to have low average spending.
  - `cluster 3` : Potential Growth Maximum number of downline members compared to other clusters Be selective about their buying behavior and have significant spending tendencies when they make purchases. They have a relatively fast return pattern and enjoy the shopping experience at offline stores.
 
+![Alt text](https://github.com/KK-PU/K19-MADT8101-CustomerAnalytics/blob/main/V4_Segment%26Product%26Content/img/cluster2.jpg)
 
 ![Alt text](https://github.com/KK-PU/K19-MADT8101-CustomerAnalytics/blob/main/V4_Segment%26Product%26Content/img/cluster.jpg)
+
 
 ## Segment Movement Analysis
 
