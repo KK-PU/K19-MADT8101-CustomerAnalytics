@@ -29,9 +29,9 @@ Segment customers by clustering, dividing the data points into subgroups. Then g
 
 The features of each clusters are `4 clusters` :
 
- - cluster 0: 
- - cluster 1: 
- - cluster 2:
- - cluster 3:
+ - cluster 0 : Starter Group individuals who are in the early stages of their MLM journey.
+ - cluster 1 : High Performers the top-performing individuals in the MLM program.
+ - cluster 2 : Growing Cluster individuals who fall between the Starter Group and the High Performers.
+ - cluster 3 : Potential Growth highest number of downline members compared to other clusters.
 
 
