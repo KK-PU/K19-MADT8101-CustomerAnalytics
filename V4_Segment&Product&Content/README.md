@@ -7,5 +7,14 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BpDBPxs2togvmgEqFrBTVnskpu77FgfS)
 
 
-## Customer Segmentation
+## Data overview
+
+The data consists of the past 3 years of customer transactions, which includes the following relevant information:
+- ent
+- original status
+- join month
+- join year
+- sponsor
+  
+Data is compiled in csv file format.
 
