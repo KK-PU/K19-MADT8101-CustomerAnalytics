@@ -23,14 +23,15 @@ The data consists of the past 3 years of customer transactions, which includes t
   
 Data is compiled in csv file format.
 
-
-
-
-
-**K-Means Clustering**
+**3) K-Means Clustering**
 
 Segment customers by clustering, dividing the data points into subgroups. Then group the same data points into the same group. A popular technique is `K-Means` Clustering.
 
 The features of each clusters are `4 clusters` :
+
+ - cluster 0: 
+ - cluster 1: 
+ - cluster 2:
+ - cluster 3:
 
 
