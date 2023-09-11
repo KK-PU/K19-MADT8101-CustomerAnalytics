@@ -10,7 +10,7 @@
 
 ## Topic Modeling
 
-![Alt text](https://github.com/KK-PU/K19-MADT8101-CustomerAnalytics/blob/main/V4_Segment%26Product%26Content/img/cluster2.jpg)
+![Alt text](https://github.com/KK-PU/K19-MADT8101-CustomerAnalytics/blob/main/V5_VoiceOfCustomerAnalytics/df.jpg)
 
 
 ## Document Clustering
