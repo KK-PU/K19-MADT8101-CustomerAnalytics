@@ -6,6 +6,7 @@
 
 **1) Import Dataset**
 
+  Data shows messages that were talked about in Social regarding the economy (Economy) in 2021.
   https://storage.googleapis.com/depa_social_data/aggregated/public/economy.csv
 
 **2) Import Dataset**
