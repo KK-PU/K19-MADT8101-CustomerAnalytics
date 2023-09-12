@@ -24,6 +24,12 @@
     id2word = dictionary.id2token
 
 
+**Displays the classification results of the LDA model in a 3D graph.**
+
+
+![Alt text](https://github.com/KK-PU/K19-MADT8101-CustomerAnalytics/blob/main/V5_VoiceOfCustomerAnalytics/pyLDAvis.jpg)
+
+
 ## Document Clustering
 
 Segment customers by clustering, dividing the data points into subgroups. Then group the same data points into the same group. A popular technique is `K-Means` Clustering.
