@@ -15,3 +15,6 @@ BBQ Plaza It is a brand of restaurant that has a unique style of grilling on a p
 BBQ Plaza has gained popularity and received good response from many customers.
 
 ![Alt text](https://github.com/KK-PU/K19-MADT8101-CustomerAnalytics/blob/main/V2_CustomerLifetimeValue/bbq1.jpg)
+
+
+
