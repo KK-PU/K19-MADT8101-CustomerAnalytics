@@ -42,6 +42,18 @@ BBQ Plaza has gained popularity and received good response from many customers.
 ![Alt text](https://github.com/KK-PU/K19-MADT8101-CustomerAnalytics/blob/main/V2_CustomerLifetimeValue/P-4.jpg)
 
 
+**🧡To summarize**
+
+- Create incentives for members to purchase specified products. to receive more benefits in the short term
+
+- Maintain customers' annual purchases in the long term.
+
+- Create brand connections to consumers until it became a bond and remained close until the present day
+
+- Use marketing techniques to make consumers remember using Marketing 3.0 or 3C concepts.
+
+   -   555555
+
 
 
 
