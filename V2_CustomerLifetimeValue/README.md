@@ -52,7 +52,11 @@ BBQ Plaza has gained popularity and received good response from many customers.
 
 - Use marketing techniques to make consumers remember using Marketing 3.0 or 3C concepts.
 
-   -   555555
+   -   Character – create a character for the brand by adopting the Content Marketing strategy using the Storytelling method, starting to be laid out step by step. Create content to add to the brand and create a Story for the Barbican Dragon.
+
+   -   Co-Creation – Use Content Marketing strategies to create creative media and campaign activities to stimulate customer awareness.
+
+   -   Communitisation – when the customer receives the media Having experience with the brand, you will begin to feel close and trustworthy. And they began to feel that the brand was friendly to them. By relying on Bar B Q Plaza as a link, Bar B Q Plaza is a friend to consumers.
 
 
 
