@@ -28,7 +28,10 @@ BBQ Plaza has gained popularity and received good response from many customers.
 - Maintain members' annual purchases in the long term.
 
 
-![Alt text](https://github.com/KK-PU/K19-MADT8101-CustomerAnalytics/blob/main/V2_CustomerLifetimeValue/Pre-1.jpg)
+![Alt text](https://github.com/KK-PU/K19-MADT8101-CustomerAnalytics/blob/main/V2_CustomerLifetimeValue/P-1.jpg)
+
+
+![Alt text](https://github.com/KK-PU/K19-MADT8101-CustomerAnalytics/blob/main/V2_CustomerLifetimeValue/P-2.jpg)
 
 
 
