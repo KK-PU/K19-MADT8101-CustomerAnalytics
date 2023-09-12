@@ -17,4 +17,16 @@ BBQ Plaza has gained popularity and received good response from many customers.
 ![Alt text](https://github.com/KK-PU/K19-MADT8101-CustomerAnalytics/blob/main/V2_CustomerLifetimeValue/bbq1.jpg)
 
 
+**Objective**
+
+- Understanding the BBQ Loyalty Program
+
+- Criteria for specifying scores
+
+- Create incentives for members to purchase specified products in the short term.
+
+- Maintain members' annual purchases in the long term.
+
+
+
 
