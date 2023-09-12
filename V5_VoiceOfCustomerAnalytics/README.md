@@ -2,10 +2,14 @@
  - Voice of Customer Analytics
 
 
+
+
 ## Import Dataset
 
   Data shows messages that were talked about in Social regarding the economy (Economy) in 2021.
   https://storage.googleapis.com/depa_social_data/aggregated/public/economy.csv
+  
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1slqqRkdI4l4ysCVSDf3Resdq9dNX2dNV#scrollTo=dpHzJl92knoQ)
 
 
 ## Topic Modeling
