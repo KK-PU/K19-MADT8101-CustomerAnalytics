@@ -10,7 +10,18 @@
 
 ## Topic Modeling
 
-![Alt text](https://github.com/KK-PU/K19-MADT8101-CustomerAnalytics/blob/main/V5_VoiceOfCustomerAnalytics/df.jpg)
+![Alt text](https://github.com/KK-PU/K19-MADT8101-CustomerAnalytics/blob/main/V5_VoiceOfCustomerAnalytics/processed_sentence.jpg)
+
+**Configure Topic Modeling - LDA**
+
+    num_topics = 500
+    chunksize = 5000
+    passes = 500
+    iterations = 500
+    eval_every = 5
+    
+    temp = dictionary[0]
+    id2word = dictionary.id2token
 
 
 ## Document Clustering
